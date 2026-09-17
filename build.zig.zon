@@ -1,0 +1,13 @@
+.{
+    .name = .bearssl,
+    .version = "0.0.1",
+    .dependencies = .{
+        .bearssl = .{
+            .url = "https://bearssl.org/bearssl-0.6.tar.gz",
+            .hash = "N-V-__8AAP0mNAAkyiY2ykjGvFxPCz3MG1hET12zva5TtOmP",
+        },
+    },
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0xd929bda682c288ba,
+}
